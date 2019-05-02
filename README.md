@@ -1,4 +1,4 @@
-install QQ
+install QQ  
 sudo dpkg --add-architecture i386  
 wget -nc https://dl.winehq.org/wine-builds/Release.key  
 sudo apt-key add Release.key  
